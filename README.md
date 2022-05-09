@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @isaacsun0813 a student at Northwestern University studying Computer Science and Tuba Performance
-- 👀 I’m interested in discovering intersections between computer science and music through the applications of machine learning, data science, and more
+- 👀 I’m interested in discovering intersections between computer science and music through the applications of machine learning and data science
 - 🌱 I’m currently learning web development through the Odin Project and machine learning on kaggle
 - 📫 Reach me at IsaacSun2025@u.northwestern.edu!
 
