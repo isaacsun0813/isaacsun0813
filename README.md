@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @isaacsun0813 a student at Northwestern University studying Computer Science and Music
+- 👋 Hi, I’m Isaac Sun and I am currently pursuing a BS/MS in CS at Northwestern University. 
 - 👀 I’m interested in crypto, cloud, and the intersection of climate tech and AI. 
 - 🌱 I previously worked as a Software Engineer for Acorn Genetics, a biotech startup based out of Evanston, Illinois. Prev @ Lumentum, Relativity. Currently working on creating Sync2Meet a better scheduling application. 
 - 📫 Reach me at isaacsun0813@gmail.com.
