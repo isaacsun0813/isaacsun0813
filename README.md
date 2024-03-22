@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Isaac Sun and I am currently pursuing a BS/MS in CS at Northwestern University. 
 - 👀 I’m interested in crypto, cloud, and the intersection of climate tech and AI. 
-- 🌱 I previously worked as a Software Engineer for Acorn Genetics, a biotech startup based out of Evanston, Illinois. Prev @ Lumentum, Relativity. 
+- 🌱 Prev @ Lumentum, Relativity, Acorn Genetics (Series A startup)
 - 📫 Reach me at isaacsun0813@gmail.com.
 
 <!---
