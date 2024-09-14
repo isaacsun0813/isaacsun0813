@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Isaac Sun and I am currently pursuing a BS/MS in CS at Northwestern University. 
 - 👀 I’m interested in crypto, cloud, and the intersection of climate tech and AI. 
-- 🌱 Current @ Intel, Prev @ Lumentum, Relativity, Acorn Genetics (Seed Stage startup)
+- 🌱 Prev @ Intel, Relativity, Lumentum, Acorn Genetics (Seed Stage startup)
 - 📫 Reach me at isaacsun0813@gmail.com.
 
 <!---
